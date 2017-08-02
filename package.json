@@ -1,0 +1,22 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriewMAXIM/testnodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PriewMAXIM/testnodejs/issues"
+  },
+  "homepage": "https://github.com/PriewMAXIM/testnodejs#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
